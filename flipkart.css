@@ -148,6 +148,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     animation: catalog 16s linear infinite ;
+    -webkit-animation: catalog 16s linear infinite ;
 }
 @keyframes catalog {
     0%{
